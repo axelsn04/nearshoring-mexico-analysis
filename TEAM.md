@@ -1,9 +1,9 @@
 # Team
 
-| Member | Role |
-|---|---|
-| **Axel Hernández Sanchez Navarro** | Data engineering: ETL pipeline and code |
-| **Jorge Paulin** | Data analysis: interpretation of results and charts |
+| Member | Linkedin |
+|---|---|---|
+| **Axel Hernández Sanchez Navarro** | https://www.linkedin.com/in/axel-hernandez-sn/ |
+| **Jorge Paulin** | www.linkedin.com/in/jorge-paulín-salinas |
 
 ## What each member did
 
