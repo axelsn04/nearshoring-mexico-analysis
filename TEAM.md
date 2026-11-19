@@ -1,7 +1,7 @@
 # Team
 
 | Member | Linkedin |
-|---|---|---|
+|---|---|
 | **Axel Hernández Sanchez Navarro** | https://www.linkedin.com/in/axel-hernandez-sn/ |
 | **Jorge Paulin** | www.linkedin.com/in/jorge-paulín-salinas |
 
